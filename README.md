@@ -1,7 +1,10 @@
-## Olá Devs 👋 
+<h1>Hello World!</h1>
+
 ![pac-man](https://github.com/user-attachments/assets/735f29af-8ace-44af-88cf-f5ddc19e61c8)
 
-![ciao](https://github.com/user-attachments/assets/c502b19d-7495-44ed-a519-147a6a5256dc)
+## Olá Devs 👋  
+
+![ciao](https://github.com/user-attachments/assets/c502b19d-7495-44ed-a519-147a6a5256dc)  
 
 <i>Sou estudante e desenvolvedor em formação, focado em criar soluções práticas e funcionais para problemas reais, compartilhando meu progresso e aprendizado por meio de projetos no GitHub que destacam minha paixão por tecnologia e evolução constante.</i>
 
