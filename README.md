@@ -13,7 +13,4 @@
 
 ![linha-1](https://github.com/user-attachments/assets/d4ba544c-987d-46ea-ab35-02c7fd2da58b)
 
-![cat-programming-1](https://github.com/user-attachments/assets/bfbab622-d9d8-430d-b20c-24bca87016d0)
-
-
 <!--28/09/24-->
