@@ -14,4 +14,4 @@
 
 <p></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=0nF1REy&theme=react&hide_border=true&border_radius=80&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=490&card_height=200&background=0%2C26286F%2C750000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=0nF1REy&theme=react&hide_border=true&border_radius=70&card_width=490&card_height=200&background=0%2C26286F%2C750000)](https://git.io/streak-stats)
