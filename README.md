@@ -6,7 +6,7 @@
 
 <img src="https://github.com/user-attachments/assets/735f29af-8ace-44af-88cf-f5ddc19e61c8" alt="pac-man" width="100%" height="50"/>
 
-## Hello Devs 👋  
+## Hi Devs 👋  
 ![ciao](https://github.com/user-attachments/assets/c502b19d-7495-44ed-a519-147a6a5256dc) 
 
 ### I'm Alan Ryan! 👋  
