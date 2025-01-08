@@ -20,6 +20,11 @@
 
 ![Alan Ryan GitHub stats](https://github-readme-stats.vercel.app/api?username=0nF1REy&show_icons=true&theme=tokyonight)
 
+<div align="right">
+    
+![Alan Ryan Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0nF1REy)
+</div>
+
 ### 🚀 Skills
 
 <div style="display: inline_block">
