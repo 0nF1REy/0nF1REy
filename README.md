@@ -12,7 +12,3 @@
 - 🌱 CSS | HTML | JS
 
 <img src="https://github.com/user-attachments/assets/d4ba544c-987d-46ea-ab35-02c7fd2da58b" alt="linha-1" width="100%" height="auto"/>
-
-<p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=0nF1REy&theme=react&hide_border=true&border_radius=70&card_width=490&card_height=200&background=0%2C26286F%2C750000"/></a>
-</p>
