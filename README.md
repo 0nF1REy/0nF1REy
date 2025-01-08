@@ -9,10 +9,29 @@
 ## Hello Devs 👋  
 ![ciao](https://github.com/user-attachments/assets/c502b19d-7495-44ed-a519-147a6a5256dc) 
 
+### I'm Alan Ryan! 👋  
 
-<i>Hi, I’m Alan, a 20-year-old from Itapeva, SP, Brazil. I’m a Technical Systems Development student at ETEC Dr. Demétrio Azevedo Junior and a future Technical Nurse. Passionate about programming, I enjoy creating innovative solutions . Check out my projects to see how I’m turning ideas into applications!</i>
+<i>I'm 20-year-old from Itapeva, SP, Brazil. I’m a Technical Systems Development student at ETEC Dr. Demétrio Azevedo Junior and a future Technical Nurse. Passionate about programming, I enjoy creating innovative solutions . Check out my projects to see how I’m turning ideas into applications!</i>
 
 - 🔭 Studying a technical course in Systems Development
 - 🌱 CSS | HTML | JS
 
 <img src="https://github.com/user-attachments/assets/d4ba544c-987d-46ea-ab35-02c7fd2da58b" alt="linha-1" width="100%" height="auto"/>
+
+![Alan Ryan GitHub stats](https://github-readme-stats.vercel.app/api?username=0nF1REy&show_icons=true&theme=tokyonight)
+
+### 🚀 Skills
+
+<div style="display: inline_block">
+    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+    <img align="center" alt="express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+    <img align="center" alt="react_router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
+    <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+    <img align="center" alt="jwt" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink"/>
+    <img align="center" alt="microsoft_word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
+    <img align="center" alt="microsoft_powerpoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
+    <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</div>
