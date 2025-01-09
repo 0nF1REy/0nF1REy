@@ -16,7 +16,7 @@
 - 🔭 Studying a technical course in Systems Development
 - 🌱 CSS | HTML | JS
 
-<img src="https://github.com/user-attachments/assets/d4ba544c-987d-46ea-ab35-02c7fd2da58b" alt="linha-1" width="100%" height="auto"/>
+<img src="https://github.com/user-attachments/assets/d4ba544c-987d-46ea-ab35-02c7fd2da58b" alt="linha" width="100%" height="auto"/>
 
 ![Alan Ryan GitHub stats](https://github-readme-stats.vercel.app/api?username=0nF1REy&show_icons=true&theme=tokyonight)
 
@@ -40,3 +40,9 @@
         <img align="center" alt="microsoft_powerpoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
         <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
+
+<img src="https://github.com/user-attachments/assets/d4ba544c-987d-46ea-ab35-02c7fd2da58b" alt="linha" width="100%" height="auto"/>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,gitlab,linux,mint,nodejs,notion,postman,vscode" />
+</a>
+<img src="https://github.com/user-attachments/assets/d4ba544c-987d-46ea-ab35-02c7fd2da58b" alt="linha" width="100%" height="auto"/>
