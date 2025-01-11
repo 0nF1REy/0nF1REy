@@ -46,3 +46,9 @@
     <img src="https://skillicons.dev/icons?i=git,gitlab,linux,mint,nodejs,notion,postman,vscode" />
 </a>
 <img src="https://github.com/user-attachments/assets/d4ba544c-987d-46ea-ab35-02c7fd2da58b" alt="linha" width="100%" height="auto"/>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0nF1REy//output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0nF1REy/0nF1REy/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/0nF1REy/0nF1REy/output/github-contribution-grid-snake.svg">
+</picture>
