@@ -30,6 +30,8 @@
 
 ![Alan Ryan's github streak](https://github-readme-streak-stats.herokuapp.com/?user=0nF1REy&theme=tokyonight)
 
+<img src="https://github.com/user-attachments/assets/d4ba544c-987d-46ea-ab35-02c7fd2da58b" alt="linha" width="100%" height="auto"/>
+
 ### 🚀 Skills
 
 <div style="display: inline_block"> 
@@ -46,13 +48,15 @@
         <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
 
-<img src="https://github.com/user-attachments/assets/d4ba544c-987d-46ea-ab35-02c7fd2da58b" alt="linha" width="100%" height="auto"/>
+---
+
 <div align="center">
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,gitlab,linux,mint,nodejs,notion,postman,vscode" />
 </a>
 </div>
-<img src="https://github.com/user-attachments/assets/d4ba544c-987d-46ea-ab35-02c7fd2da58b" alt="linha" width="100%" height="auto"/>
+
+---
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0nF1REy//output/github-contribution-grid-snake-dark.svg">
