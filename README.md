@@ -22,7 +22,7 @@
 
 <div align="right">
     
-![Alan Ryan Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0nF1REy)
+![Alan Ryan Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0nF1REy&theme=tokyonight)
 </div>
 
 ### 🚀 Skills
