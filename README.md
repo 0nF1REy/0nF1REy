@@ -47,9 +47,11 @@
 </div>
 
 <img src="https://github.com/user-attachments/assets/d4ba544c-987d-46ea-ab35-02c7fd2da58b" alt="linha" width="100%" height="auto"/>
+<div align="center">
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,gitlab,linux,mint,nodejs,notion,postman,vscode" />
 </a>
+</div>
 <img src="https://github.com/user-attachments/assets/d4ba544c-987d-46ea-ab35-02c7fd2da58b" alt="linha" width="100%" height="auto"/>
 
 <picture align="center">
