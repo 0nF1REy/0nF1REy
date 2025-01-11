@@ -21,12 +21,14 @@
 
 ### 📊 Stats
 
-![Alan Ryan GitHub stats](https://github-readme-stats.vercel.app/api?username=0nF1REy&show_icons=true&theme=tokyonight)
+![Alan Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=0nF1REy&show_icons=true&theme=tokyonight)
 
 <div align="right">
     
-![Alan Ryan Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0nF1REy&theme=tokyonight)
+![Alan Ryan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0nF1REy&theme=tokyonight)
 </div>
+
+![Alan Ryan's github streak](https://github-readme-streak-stats.herokuapp.com/?user=0nF1REy&theme=tokyonight)
 
 ### 🚀 Skills
 
