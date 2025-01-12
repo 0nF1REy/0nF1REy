@@ -28,10 +28,6 @@
 ![Alan Ryan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0nF1REy&theme=tokyonight)
 </div>
 
-![Alan Ryan's github streak](https://github-readme-streak-stats.herokuapp.com/?user=0nF1REy&theme=tokyonight)
-
-<img src="https://github.com/user-attachments/assets/d4ba544c-987d-46ea-ab35-02c7fd2da58b" alt="linha" width="100%" height="auto"/>
-
 ### 🚀 Skills
 
 <div style="display: inline_block"> 
