@@ -54,8 +54,13 @@
 
 ---
 
+<p>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0nF1REy//output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0nF1REy/0nF1REy/output/github-contribution-grid-snake.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/0nF1REy/0nF1REy/output/github-contribution-grid-snake.svg">
 </picture>
+</p>
+<p align="center">
+    <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2F0nF1REy&s=40&c=004687&bg=00000000&no=7&ff=linebeam&tb=Visits%3A+&ta=%21" alt="Visitor count"/>
+</p>
