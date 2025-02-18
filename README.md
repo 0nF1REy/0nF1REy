@@ -10,7 +10,7 @@
 ![ciao](https://github.com/user-attachments/assets/c502b19d-7495-44ed-a519-147a6a5256dc) 
 
 ### I'm Alan Ryan! 👋  
-**`Web | Developer`**
+**`Systems Development Technician 🧑‍💻 🛠️`**
 
 <i>I'm 20-year-old from Itapeva, SP, Brazil. I’m a Technical Systems Development student at ETEC Dr. Demétrio Azevedo Junior and a future Technical Nurse. Passionate about programming, I enjoy creating innovative solutions . Check out my projects to see how I’m turning ideas into applications!</i>
 
