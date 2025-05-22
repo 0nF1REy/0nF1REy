@@ -8,10 +8,16 @@
 
 <h3 align="center">I'm a Systems Development Technician Student! 🧑‍💻 🛠️</h3>
 
-<i>I'm 20-year-old from Itapeva, SP, Brazil. I’m a Technical Systems Development student at ETEC Dr. Demétrio Azevedo Junior and a future Technical Nurse. Passionate about programming, I enjoy creating innovative solutions . Check out my projects to see how I’m turning ideas into applications!</i>
+<i>I'm a technology enthusiast, self-taught, and driven by curiosity—constantly seeking to improve my skills and share knowledge. My goal is to specialize in systems development, with a focus on creating scalable, efficient, and socially meaningful solutions. I believe in the power of technology as a tool for transformation and strive to contribute to projects that combine innovation, accessibility, and positive impact. Through my GitHub repositories, I share functional solutions to real-world challenges, reflecting my commitment to continuous learning, technical excellence, and building a smarter, more collaborative future.</i>
 
-- 🔭 Studying a technical course in Systems Development
-- 🌱 CSS | HTML | JS
+- 🔭 Studying a technical course in Systems Development  
+- 📘 Also pursuing a technical degree in Nursing  
+- 💡 Passionate about solving real-world problems through code  
+- 🧠 Constantly learning new technologies and improving my skills  
+- 👨‍🔬 Interested in the intersection of technology and healthcare  
+- 🧰 Exploring multiple programming languages and tools  
+- 🌐 Building and publishing web-based projects  
+- 🤝 Open to collaboration and learning from the developer community  
 
 ## 💼 projects
 
