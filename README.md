@@ -4,9 +4,13 @@
     </a>
 </p>
 
-<h1 align="center">Hello, I'm Alan Ryan 👋</h1>
+<p align="center" style="font-size: 2em; font-weight: bold; margin: 0;">
+  I'm Alan Ryan 👋
+</p>
 
-<h3 align="center">I'm a Systems Development Technician Student! 🧑‍💻 🛠️</h3>
+<h3 align="center" style="letter-spacing: 0.2em;">
+  • Systems Development Technician •
+</h3>
 
 ---
 
