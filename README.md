@@ -8,9 +8,9 @@
 
 -- --
 
-<h1 align="center">I'm Alan Ryan 👋</h1>
+<h1 align="center">I'm Alan Ryan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-<h3 align="center">Systems Development Technician! 🧑‍💻 🛠️</h3>
+<h3 align="center">🧑‍💻 Systems Development Technician | 🌏 Itapeva / São Paulo </h3>
 
 <i>I'm a technology enthusiast, self-taught, and driven by curiosity—constantly seeking to improve my skills and share knowledge. My goal is to specialize in systems development, with a focus on creating scalable, efficient, and socially meaningful solutions. I believe in the power of technology as a tool for transformation and strive to contribute to projects that combine innovation, accessibility, and positive impact. Through my GitHub repositories, I share functional solutions to real-world challenges, reflecting my commitment to continuous learning, technical excellence, and building a smarter, more collaborative future.</i>
 
@@ -35,79 +35,104 @@
 |   4  |[Java](https://github.com/0nF1REy/projetos-java)| Java |
 |   5  |[PHP](https://0nf1rey.github.io/projetos-php/)| PHP |
 
+## 🧩 Skills
+
+<p align="center">
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">    
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" >
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" >
+   
+</p>
+
 ## 🌐 Connect with me
 
   <a href="https://www.linkedin.com/in/alan-ryan-b115ba228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:alanryan619@gmail.com"> <img src = "https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target = "_ blank"> </a>
 
-## 🚀 Cool Tech Toolbox!
+<div align="center">
+  <h3>🚀 Technologies and Tools</h3>
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=cs,dotnet" />
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java"  />
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=php" />
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css" />
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js" />
-      </a>
-    </td>
-     <td align="center" width="96">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=fortran" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=linux,mint" />
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=vscode" />
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=postman" />
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nodejs" />
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=notion" />
-      </a>
-    </td>
-  </tr>
-</table>
+  <kbd>
+    <div align="center">
+      <p>
+        <br>
+        <strong>Programming Languages</strong>
+        <br>
+        <hr width="675">
+        <br>
+        
+  [![My Skills](https://skillicons.dev/icons?i=cs,js,ts,php,java,bash&perline=10)](https://skillicons.dev)
+      </p>
+    </div>
+  </kbd>
+
+  <kbd>
+    <div align="center">
+      <p>
+        <br>
+        <strong>Libraries, Frameworks & Databases</strong>
+        <br>
+        <hr width="675">
+        <br>
+        
+  [![My Skills](https://skillicons.dev/icons?i=react,vue,angular,bootstrap,vite,mysql,postgres&perline=10)](https://skillicons.dev)
+      </p>
+    </div>
+  </kbd>
+
+  <kbd>
+    <div align="center">
+      <p>
+        <br>
+        <strong>Operating Systems, Platforms & Networks</strong>
+        <br>
+        <hr width="675">
+        <br>
+        
+  [![My Skills](https://skillicons.dev/icons?i=arch,linux,ubuntu,github,gitlab,linkedin&perline=10)](https://skillicons.dev)
+      </p>
+    </div>
+  </kbd>
+
+  <kbd>
+    <div align="center">
+      <p>
+        <br>
+        <strong>IDEs & Code Editors, Testing & Monitoring</strong>
+        <br>
+        <hr width="675">
+        <br>
+        
+  [![My Skills](https://skillicons.dev/icons?i=vscode,idea,postman&perline=10)](https://skillicons.dev)
+      </p>
+    </div>
+  </kbd>
+
+  <kbd>
+    <div align="center">
+      <p>
+        <br>
+        <strong>Design & Creative Tools, Build Tools & Package Managers</strong>
+        <br>
+        <hr width="675">
+        <br>
+        
+  [![My Skills](https://skillicons.dev/icons?i=figma,npm&perline=10)](https://skillicons.dev)
+      </p>
+    </div>
+  </kbd>
+
+</div>
 
 ---
 
