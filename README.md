@@ -6,7 +6,9 @@
     </a>
 </p>
 
-<h1 align="center">Hello, I'm Alan Ryan 👋</h1>
+-- --
+
+<h1 align="center">I'm Alan Ryan 👋</h1>
 
 <h3 align="center">I'm a Systems Development Technician Student! 🧑‍💻 🛠️</h3>
 
