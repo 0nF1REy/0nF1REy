@@ -1,12 +1,14 @@
+-- --
+
 <p align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=sans-serif&weight=500&size=36&letterSpacing=1.2rem&pause=1000&color=004687&vCenter=true&width=435&lines=Hello+World!" alt="Typing SVG" />
     </a>
 </p>
 
-<h1 align="center">I'm Alan Ryan 👋</h1>
+<h1 align="center">Hello, I'm Alan Ryan 👋</h1>
 
-<h2 align="center">• Systems Development Technician •</h2>
+<h3 align="center">I'm a Systems Development Technician Student! 🧑‍💻 🛠️</h3>
 
 <i>I'm a technology enthusiast, self-taught, and driven by curiosity—constantly seeking to improve my skills and share knowledge. My goal is to specialize in systems development, with a focus on creating scalable, efficient, and socially meaningful solutions. I believe in the power of technology as a tool for transformation and strive to contribute to projects that combine innovation, accessibility, and positive impact. Through my GitHub repositories, I share functional solutions to real-world challenges, reflecting my commitment to continuous learning, technical excellence, and building a smarter, more collaborative future.</i>
 
