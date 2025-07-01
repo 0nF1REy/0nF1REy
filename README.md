@@ -43,37 +43,31 @@
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=cs,dotnet" />
       </a>
-      <br>C# & .NET
     </td>
     <td align="center" width="96">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=java"  />
       </a>
-      <br>Java
     </td>
     <td align="center" width="96">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=php" />
       </a>
-      <br>PHP
     </td>
     <td align="center" width="96">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=html,css" />
       </a>
-      <br>HTML & CSS
     </td>
     <td align="center" width="96">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=js" />
       </a>
-      <br>JavaScript
     </td>
      <td align="center" width="96">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=fortran" />
       </a>
-      <br>Fortran
     </td>
   </tr>
   <tr>
@@ -81,37 +75,31 @@
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
       </a>
-      <br>Git, GitHub & GitLab
     </td>
     <td align="center" width="96">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=linux,mint" />
       </a>
-      <br>Linux & Mint
     </td>
     <td align="center" width="96">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=vscode" />
       </a>
-      <br>VS Code
     </td>
     <td align="center" width="96">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=postman" />
       </a>
-      <br>Postman
     </td>
     <td align="center" width="96">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=nodejs" />
       </a>
-      <br>Node.js
     </td>
     <td align="center" width="96">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=notion" />
       </a>
-      <br>Notion
     </td>
   </tr>
 </table>
