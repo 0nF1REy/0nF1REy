@@ -102,7 +102,7 @@
         <hr width="675">
         <br>
         
-  [![My Skills](https://skillicons.dev/icons?i=arch,linux,ubuntu,github,gitlab,linkedin&perline=10)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=arch,linux,windows,ubuntu,github,gitlab,linkedin&perline=10)](https://skillicons.dev)
       </p>
     </div>
   </kbd>
@@ -116,7 +116,7 @@
         <hr width="675">
         <br>
         
-  [![My Skills](https://skillicons.dev/icons?i=vscode,idea,postman&perline=10)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea,postman&perline=10)](https://skillicons.dev)
       </p>
     </div>
   </kbd>
