@@ -35,6 +35,11 @@
 |   4  |[Java](https://github.com/0nF1REy/projetos-java)| Java |
 |   5  |[PHP](https://0nf1rey.github.io/projetos-php/)| PHP |
 
+## 🌐 Connect with me
+
+  <a href="https://www.linkedin.com/in/alan-ryan-b115ba228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:alanryan619@gmail.com"> <img src = "https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target = "_ blank"> </a>
+
 ## 🚀 Cool Tech Toolbox!
 
 <table>
