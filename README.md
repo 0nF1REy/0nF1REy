@@ -59,8 +59,11 @@
   <a href="https://www.linkedin.com/in/alan-ryan-b115ba228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:alanryan619@gmail.com"> <img src = "https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target = "_ blank"> </a>
 
+---
+
+## 🚀 Technologies and Tools
+
 <div align="center">
-  <h3>🚀 Technologies and Tools</h3>
 
   <kbd>
     <div align="center">
