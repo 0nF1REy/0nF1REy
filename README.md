@@ -61,28 +61,37 @@
 
 ---
 
+<div align="center">
+
   <kbd>
     <div align="center">
       <p>
-        <strong>🚀 Technologies and Tools</strong>
+        <br>
+        <strong>🚀 Technologies, Tools & Platforms</strong>
         <br>
         <hr width="675">
         <br>
 
-  [![My Skills](https://skillicons.dev/icons?i=cs,java&perline=10)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=npm&perline=10)](https://skillicons.dev)
 
-  [![My Skills](https://skillicons.dev/icons?i=js,ts,php,bash&perline=10)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=cs,java,mongodb&perline=10)](https://skillicons.dev) 
+
+  [![My Skills](https://skillicons.dev/icons?i=js,ts,php,bash,html&perline=10)](https://skillicons.dev)
 
   [![My Skills](https://skillicons.dev/icons?i=react,vue,angular,bootstrap,vite,mysql,postgres&perline=10)](https://skillicons.dev)
 
   [![My Skills](https://skillicons.dev/icons?i=arch,linux,windows,ubuntu,github,gitlab,linkedin&perline=10)](https://skillicons.dev)
 
-  [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea,postman&perline=10)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea,postman,docker&perline=10)](https://skillicons.dev)
 
-  [![My Skills](https://skillicons.dev/icons?i=figma,npm&perline=10)](https://skillicons.dev)
-      </p>
-    </div>
-  </kbd>
+  [![My Skills](https://skillicons.dev/icons?i=figma,git,express&perline=10)](https://skillicons.dev)
+
+  [![My Skills](https://skillicons.dev/icons?i=spring&perline=10)](https://skillicons.dev)
+        </p>
+</div>
+</kbd>
+
+</div>
 
 ---
 
