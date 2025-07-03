@@ -1,4 +1,4 @@
--- --
+---
 
 <p align="center">
     <a href="https://git.io/typing-svg">
@@ -6,7 +6,7 @@
     </a>
 </p>
 
--- --
+---
 
 <h1 align="center">I'm Alan Ryan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
@@ -14,26 +14,26 @@
 
 <i>I'm a technology enthusiast, self-taught, and driven by curiosity—constantly seeking to improve my skills and share knowledge. My goal is to specialize in systems development, with a focus on creating scalable, efficient, and socially meaningful solutions. I believe in the power of technology as a tool for transformation and strive to contribute to projects that combine innovation, accessibility, and positive impact. Through my GitHub repositories, I share functional solutions to real-world challenges, reflecting my commitment to continuous learning, technical excellence, and building a smarter, more collaborative future.</i>
 
-- 🔭 Studying a technical course in Systems Development  
-- 📘 Also pursuing a technical degree in Nursing  
-- 💡 Passionate about solving real-world problems through code  
-- 🧠 Constantly learning new technologies and improving my skills  
-- 👨‍🔬 Interested in the intersection of technology and healthcare  
-- 🧰 Exploring multiple programming languages and tools  
-- 🌐 Building and publishing web-based projects  
-- 🤝 Open to collaboration and learning from the developer community  
+- 🔭 Studying a technical course in Systems Development
+- 📘 Also pursuing a technical degree in Nursing
+- 💡 Passionate about solving real-world problems through code
+- 🧠 Constantly learning new technologies and improving my skills
+- 👨‍🔬 Interested in the intersection of technology and healthcare
+- 🧰 Exploring multiple programming languages and tools
+- 🌐 Building and publishing web-based projects
+- 🤝 Open to collaboration and learning from the developer community
 
 ---
 
 ## 💼 projects
 
-| Index | Project | Tech Used |
-|:------:|:-----------------:|:------:|
-|   1  |[C Sharp](https://github.com/0nF1REy/projetos-c-sharp)| C# |
-|   2  |[Fortran](https://0nf1rey.github.io/projetos-fortran/web/)| Fortran |
-|   3  |[HTML, CSS and JS](https://0nf1rey.github.io/projetos-html-css-js/)| HTML, CSS and JS |
-|   4  |[Java](https://github.com/0nF1REy/projetos-java)| Java |
-|   5  |[PHP](https://0nf1rey.github.io/projetos-php/)| PHP |
+| Index |                               Project                               |    Tech Used     |
+| :---: | :-----------------------------------------------------------------: | :--------------: |
+|   1   |       [C Sharp](https://github.com/0nF1REy/projetos-c-sharp)        |        C#        |
+|   2   |     [Fortran](https://0nf1rey.github.io/projetos-fortran/web/)      |     Fortran      |
+|   3   | [HTML, CSS and JS](https://0nf1rey.github.io/projetos-html-css-js/) | HTML, CSS and JS |
+|   4   |          [Java](https://github.com/0nF1REy/projetos-java)           |       Java       |
+|   5   |           [PHP](https://0nf1rey.github.io/projetos-php/)            |       PHP        |
 
 ## 🧩 Skills
 
@@ -56,86 +56,33 @@
 
 ## 🌐 Connect with me
 
-  <a href="https://www.linkedin.com/in/alan-ryan-b115ba228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:alanryan619@gmail.com"> <img src = "https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target = "_ blank"> </a>
+<a href="https://www.linkedin.com/in/alan-ryan-b115ba228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:alanryan619@gmail.com"> <img src = "https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target = "_ blank"> </a>
 
 ---
 
-## 🚀 Technologies and Tools
-
-<div align="center">
-
   <kbd>
     <div align="center">
       <p>
-        <br>
-        <strong>Programming Languages</strong>
+        <strong>🚀 Technologies and Tools</strong>
         <br>
         <hr width="675">
         <br>
-        
-  [![My Skills](https://skillicons.dev/icons?i=cs,js,ts,php,java,bash&perline=10)](https://skillicons.dev)
-      </p>
-    </div>
-  </kbd>
 
-  <kbd>
-    <div align="center">
-      <p>
-        <br>
-        <strong>Libraries, Frameworks & Databases</strong>
-        <br>
-        <hr width="675">
-        <br>
-        
+  [![My Skills](https://skillicons.dev/icons?i=cs,java&perline=10)](https://skillicons.dev)
+
+  [![My Skills](https://skillicons.dev/icons?i=js,ts,php,bash&perline=10)](https://skillicons.dev)
+
   [![My Skills](https://skillicons.dev/icons?i=react,vue,angular,bootstrap,vite,mysql,postgres&perline=10)](https://skillicons.dev)
-      </p>
-    </div>
-  </kbd>
 
-  <kbd>
-    <div align="center">
-      <p>
-        <br>
-        <strong>Operating Systems, Platforms & Networks</strong>
-        <br>
-        <hr width="675">
-        <br>
-        
   [![My Skills](https://skillicons.dev/icons?i=arch,linux,windows,ubuntu,github,gitlab,linkedin&perline=10)](https://skillicons.dev)
-      </p>
-    </div>
-  </kbd>
 
-  <kbd>
-    <div align="center">
-      <p>
-        <br>
-        <strong>IDEs & Code Editors, Testing & Monitoring</strong>
-        <br>
-        <hr width="675">
-        <br>
-        
   [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea,postman&perline=10)](https://skillicons.dev)
-      </p>
-    </div>
-  </kbd>
 
-  <kbd>
-    <div align="center">
-      <p>
-        <br>
-        <strong>Design & Creative Tools, Build Tools & Package Managers</strong>
-        <br>
-        <hr width="675">
-        <br>
-        
   [![My Skills](https://skillicons.dev/icons?i=figma,npm&perline=10)](https://skillicons.dev)
       </p>
     </div>
   </kbd>
-
-</div>
 
 ---
 
