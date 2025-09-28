@@ -4,6 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=sans-serif&weight=500&size=36&letterSpacing=1.2rem&pause=1000&color=004687&vCenter=true&width=435&lines=Hello+World!" alt="Typing SVG" />
 </a>
 </p>
+
 ---
 
 <div align="center">
