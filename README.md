@@ -4,17 +4,14 @@
 <img src="https://readme-typing-svg.demolab.com?font=sans-serif&weight=500&size=36&letterSpacing=1.2rem&pause=1000&color=004687&vCenter=true&width=435&lines=Hello+World!" alt="Typing SVG" />
 </a>
 </p>
+
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=I'm%20Alan%20Ryan&section=header&desc=🧑‍💻%20Systems%20Development%20Technician%20|%20🌏%20Itapeva%20/%20São%20Paulo%20&reversal=true&textBg=false&fontAlign=50&fontAlignY=40&animation=scaleIn&descSize=0" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=I'm%20Alan%20Ryan&section=header&desc=🧑‍💻%20Systems%20Development%20Technician%20|%20🌏%20Itapeva%20/%20São%20Paulo%20&reversal=true&textBg=false&fontAlign=50&fontAlignY=40&animation=scaleIn&descSize=0" width="100%" />
 </div>
 
-<div style="border-left: 4px solid #7e7e7eff; padding-left: 12px;">
-  <i>
-    I'm a technology enthusiast, self-taught, and driven by curiosity—constantly seeking to improve my skills and share knowledge. My goal is to specialize in systems development, with a focus on creating scalable, efficient, and socially meaningful solutions. I believe in the power of technology as a tool for transformation and strive to contribute to projects that combine innovation, accessibility, and positive impact. Through my GitHub repositories, I share functional solutions to real-world challenges, reflecting my commitment to continuous learning, technical excellence, and building a smarter, more collaborative future.
-  </i>
-</div>
+<i>I'm a technology enthusiast, self-taught, and driven by curiosity—constantly seeking to improve my skills and share knowledge. My goal is to specialize in systems development, with a focus on creating scalable, efficient, and socially meaningful solutions. I believe in the power of technology as a tool for transformation and strive to contribute to projects that combine innovation, accessibility, and positive impact. Through my GitHub repositories, I share functional solutions to real-world challenges, reflecting my commitment to continuous learning, technical excellence, and building a smarter, more collaborative future.</i>
 
 - 🔭 Studying a technical course in Systems Development
 - 📘 Also pursuing a technical degree in Nursing
