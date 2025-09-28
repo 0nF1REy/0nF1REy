@@ -1,18 +1,20 @@
 ---
-
 <p align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=sans-serif&weight=500&size=36&letterSpacing=1.2rem&pause=1000&color=004687&vCenter=true&width=435&lines=Hello+World!" alt="Typing SVG" />
-    </a>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=sans-serif&weight=500&size=36&letterSpacing=1.2rem&pause=1000&color=004687&vCenter=true&width=435&lines=Hello+World!" alt="Typing SVG" />
+</a>
 </p>
-
 ---
 
-<h1 align="center">I'm Alan Ryan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=I'm%20Alan%20Ryan&section=header&desc=🧑‍💻%20Systems%20Development%20Technician%20|%20🌏%20Itapeva%20/%20São%20Paulo%20&reversal=true&textBg=false&fontAlign=50&fontAlignY=40&animation=scaleIn&descSize=0" width="100%" />
+</div>
 
-<h3 align="center">🧑‍💻 Systems Development Technician | 🌏 Itapeva / São Paulo </h3>
-
-<i>I'm a technology enthusiast, self-taught, and driven by curiosity—constantly seeking to improve my skills and share knowledge. My goal is to specialize in systems development, with a focus on creating scalable, efficient, and socially meaningful solutions. I believe in the power of technology as a tool for transformation and strive to contribute to projects that combine innovation, accessibility, and positive impact. Through my GitHub repositories, I share functional solutions to real-world challenges, reflecting my commitment to continuous learning, technical excellence, and building a smarter, more collaborative future.</i>
+<div style="border-left: 4px solid #7e7e7eff; padding-left: 12px;">
+  <i>
+    I'm a technology enthusiast, self-taught, and driven by curiosity—constantly seeking to improve my skills and share knowledge. My goal is to specialize in systems development, with a focus on creating scalable, efficient, and socially meaningful solutions. I believe in the power of technology as a tool for transformation and strive to contribute to projects that combine innovation, accessibility, and positive impact. Through my GitHub repositories, I share functional solutions to real-world challenges, reflecting my commitment to continuous learning, technical excellence, and building a smarter, more collaborative future.
+  </i>
+</div>
 
 - 🔭 Studying a technical course in Systems Development
 - 📘 Also pursuing a technical degree in Nursing
@@ -72,22 +74,24 @@
         <hr width="675">
         <br>
 
-  [![My Skills](https://skillicons.dev/icons?i=npm&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=npm&perline=10)](https://skillicons.dev)
 
-  [![My Skills](https://skillicons.dev/icons?i=cs,java,mongodb&perline=10)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=cs,java,mongodb&perline=10)](https://skillicons.dev)
 
-  [![My Skills](https://skillicons.dev/icons?i=js,ts,php,bash,html&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,php,bash,html&perline=10)](https://skillicons.dev)
 
-  [![My Skills](https://skillicons.dev/icons?i=react,vue,angular,bootstrap,vite,mysql,postgres&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vue,angular,bootstrap,vite,mysql,postgres&perline=10)](https://skillicons.dev)
 
-  [![My Skills](https://skillicons.dev/icons?i=arch,linux,windows,ubuntu,github,gitlab,linkedin&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,linux,windows,ubuntu,github,gitlab,linkedin&perline=10)](https://skillicons.dev)
 
-  [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea,postman,docker&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea,postman,docker&perline=10)](https://skillicons.dev)
 
-  [![My Skills](https://skillicons.dev/icons?i=figma,git,express&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,git,express&perline=10)](https://skillicons.dev)
 
-  [![My Skills](https://skillicons.dev/icons?i=spring&perline=10)](https://skillicons.dev)
-        </p>
+[![My Skills](https://skillicons.dev/icons?i=spring&perline=10)](https://skillicons.dev)
+
+</p>
+
 </div>
 </kbd>
 
@@ -96,12 +100,13 @@
 ---
 
 <p>
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0nF1REy//output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0nF1REy/0nF1REy/output/github-contribution-grid-snake.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/0nF1REy/0nF1REy/output/github-contribution-grid-snake.svg">
-</picture>
+  <picture align="center">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0nF1REy//output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0nF1REy/0nF1REy/output/github-contribution-grid-snake.svg">
+    <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/0nF1REy/0nF1REy/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
-<p align="center">
-    <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2F0nF1REy&s=40&c=004687&bg=00000000&no=7&ff=linebeam&tb=Visits%3A+&ta=%21" alt="Visitor count"/>
-</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=9be9a8&section=footer&reversal=true&textBg=false&fontAlign=50&fontAlignY=46&animation=scaleIn&descSize=0" width="100%" />
+</div>
