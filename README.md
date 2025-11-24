@@ -4,7 +4,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=sans-serif&weight=500&size=36&letterSpacing=1.2rem&pause=1000&color=004687&vCenter=true&width=435&lines=Hello+World!" alt="Typing SVG" />
 </a>
 </p>
-
 ---
 
 <div align="center">
@@ -24,33 +23,26 @@
 
 ---
 
-## 💼 projects
+## 💼 Workspaces
 
-| Index |                               Project                               |    Tech Used     |
+| Index |                               Workspace                               |    Tech Used     |
 | :---: | :-----------------------------------------------------------------: | :--------------: |
-|   1   |       [C Sharp](https://github.com/0nF1REy/projetos-c-sharp)        |        C#        |
-|   2   |     [Fortran](https://0nf1rey.github.io/projetos-fortran/web/)      |     Fortran      |
-|   3   | [HTML, CSS and JS](https://0nf1rey.github.io/projetos-html-css-js/) | HTML, CSS and JS |
-|   4   |          [Java](https://github.com/0nF1REy/projetos-java)           |       Java       |
-|   5   |           [PHP](https://0nf1rey.github.io/projetos-php/)            |       PHP        |
+|   1   |       [C Sharp](https://github.com/0nF1REy/csharp-workspace)        |        C#        |
+|   2   |     [Fortran](https://0nf1rey.github.io/fortran-workspace/web)      |     Fortran      |
+|   3   | [HTML, CSS and JS](https://0nf1rey.github.io/html-css-js-workspace) | HTML, CSS and JS |
+|   4   |          [Java](https://github.com/0nF1REy/java-workspace)          |       Java       |
+|   5   |           [PHP](https://0nf1rey.github.io/php-workspace)            |       PHP        |
 
 ## 🧩 Skills
 
 <p align="center">
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">    
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" >
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" >
-   
+    <img height="40" src="./assets/images/isotipos/astro.svg" alt="astro">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="./assets/images/isotipos/nextjs.svg" alt="nextjs">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="./assets/images/isotipos/angular.svg" alt="angular">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="./assets/images/isotipos/spring.svg" alt="spring">
 </p>
 
 ## 🌐 Connect with me
