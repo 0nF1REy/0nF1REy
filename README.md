@@ -1,4 +1,12 @@
+![Alan Ryan - Card Name](https://cardivo.vercel.app/api?name=I'm%20Alan%20Ryan&description=Hi%20there!%20I%27m%20a%20full%20stack%20developer.%20It's%20nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/619?v=4&backgroundColor=%23ecf0f1&pattern=leaf&colorPattern=%23eaeaea&site=🧑‍💻%20Systems%20Development%20Technician%20|%20🌏%20Itapeva%20/%20SP)
+
+<details>
+  <summary><b>Learn more about me</b> 👇</summary>
+ 
+<blockquote>
+
 ---
+
 <p align="center">
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=sans-serif&weight=500&size=36&letterSpacing=1.2rem&pause=1000&color=004687&vCenter=true&width=435&lines=Hello+World!" alt="Typing SVG" />
@@ -8,13 +16,12 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=I'm%20Alan%20Ryan&section=header&desc=🧑‍💻%20Systems%20Development%20Technician%20|%20🌏%20Itapeva%20/%20São%20Paulo%20&reversal=true&textBg=false&fontAlign=50&fontAlignY=40&animation=scaleIn&descSize=0" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" width="100%" />
 </div>
 
 > <i> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm a technology enthusiast, self-taught, and driven by curiosity—constantly seeking to improve my skills and share knowledge. My goal is to specialize in systems development, with a focus on creating scalable, efficient, and socially meaningful solutions. I believe in the power of technology as a tool for transformation and strive to contribute to projects that combine innovation, accessibility, and positive impact. Through my GitHub repositories, I share functional solutions to real-world challenges, reflecting my commitment to continuous learning, technical excellence, and building a smarter, more collaborative future.</i>
 
-- 🔭 Studying a technical course in Systems Development
-- 📘 Also pursuing a technical degree in Nursing
+- 🔭 I have degrees in systems development, chemistry, and nursing
 - 💡 Passionate about solving real-world problems through code
 - 🧠 Constantly learning new technologies and improving my skills
 - 👨‍🔬 Interested in the intersection of technology and healthcare
@@ -64,16 +71,11 @@
         <hr width="675">
         <br>
 
-[![My Skills](https://skillicons.dev/icons?i=reactivex&perline=10)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=c,fortran,cs&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts&perline=10)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase&perline=10)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=js,java,ts&perline=10)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=kotlin&perline=10)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin&perline=10)](https://skillicons.dev)
 
 </p>
 
@@ -95,3 +97,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=40c463&section=footer&reversal=true&textBg=false&fontAlign=50&fontAlignY=46&animation=scaleIn&descSize=0" width="100%" />
 </div>
+
+  </blockquote>
+
+</details>
