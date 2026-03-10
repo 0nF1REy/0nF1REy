@@ -1,4 +1,4 @@
-![Alan Ryan - Card Name](https://cardivo.vercel.app/api?name=I'm%20Alan%20Ryan&description=Hi%20there!%20I%27m%20a%20full%20stack%20developer.%20It's%20nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/619?v=4&backgroundColor=%23ecf0f1&pattern=leaf&colorPattern=%23eaeaea&site=🧑‍💻%20Systems%20Development%20Technician%20|%20🌏%20Itapeva%20/%20SP)
+![Alan Ryan - Card Name](https://cardivo.vercel.app/api?name=I'm%20Alan%20Ryan&description=Hi%20there!%20I%27m%20a%20full%20stack%20developer.%20It's%20nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://cdna.artstation.com/p/assets/images/images/073/266/462/large/oleteras-5ac37248-4405-4e55-bf97-909705c1d7d7.jpg?1709257954&backgroundColor=%23ecf0f1&pattern=leaf&colorPattern=%23eaeaea&site=🧑‍💻%20Systems%20Development%20Technician%20|%20🌏%20Itapeva%20/%20SP)
 
 <details>
   <summary><b>Learn more about me</b> 👇</summary>
